@@ -12,6 +12,7 @@
 - 💼 &nbsp; Worked as an intern at Null Class.
 - 🌱 &nbsp; Learning more about Data Structures and Web Dev.
 - ✍️ &nbsp; Pursuing Graphic Design, Video Editing and Blog Writing as hobbies/side hustles.
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:200107082)](mailto:200107082siddhant@gmail.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
