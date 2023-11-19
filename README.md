@@ -42,10 +42,10 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<a>Check more about me here 🌟 </a>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/200107082"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sid_8171"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:200107082siddhant@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/200107082siddhant" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sid_8171" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/sid_8171" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
